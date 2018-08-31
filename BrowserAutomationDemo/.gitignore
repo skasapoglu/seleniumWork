@@ -3,6 +3,7 @@
 **/target/
 /target/
 */target/*
+/build/tmp/jar
 .classpath
 .project
 .settings
