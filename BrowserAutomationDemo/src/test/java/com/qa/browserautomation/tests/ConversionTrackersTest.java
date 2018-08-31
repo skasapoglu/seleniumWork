@@ -113,7 +113,7 @@ public class ConversionTrackersTest extends TestBase {
 
 	@Test
 	public void userCanSortWithTrackerName() {
-		// for this test I cannot add tracker thus so I cannot assert automatically now.
+		// for this test I cannot add tracker so I cannot assert automatically now.
 		// if I could write down the test it would be as follows
 
 		// add 11 number of trackers first
@@ -126,7 +126,7 @@ public class ConversionTrackersTest extends TestBase {
 
 	@Test
 	public void userCanShowDesiredAmountOfRows() {
-		// for this test I cannot add tracker thus so I cannot assert automatically now.
+		// for this test I cannot add tracker so I cannot assert automatically now.
 		// if I could write down the test it would be as follows
 
 		// given 11 number of trackers
