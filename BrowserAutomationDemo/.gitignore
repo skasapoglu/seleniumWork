@@ -8,9 +8,7 @@
 .settings
 
 # Package Files #
-*.jar
-*.war
+.war
 *.ear
-
 *.iml
 
