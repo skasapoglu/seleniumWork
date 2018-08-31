@@ -7,7 +7,7 @@ import com.qa.browserautomation.HomePage;
 
 public class LoginPageTest extends TestBase {
 
-	// this test is a smoke test if the login is successful.
+	// this test is a smoke test vefifies if the login is successful.
 	@Test
 	public void userCanLoginSuccesfuly() {
 
